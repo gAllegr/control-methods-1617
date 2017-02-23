@@ -1,2 +1,5 @@
 - Shaka Player's lib
-- Video
+- Video:
+    Original video
+    live video
+    onDemand video
